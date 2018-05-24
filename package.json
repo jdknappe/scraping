@@ -1,0 +1,21 @@
+{
+  "name": "scraping",
+  "version": "1.0.0",
+  "description": "Scraping demonstration.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdknappe/scraping.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jdknappe/scraping/issues"
+  },
+  "homepage": "https://github.com/jdknappe/scraping#readme"
+}
